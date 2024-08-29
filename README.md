@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Gursahb Rumana aka GS</h1>
 <h3 align="center">A passionate full stack developer from India.</h3>
 
-- 🔭 I’m currently working on [Celestial Mart](https://celestial-mart.web.app)
+- 🔭 I’m currently working on Myself
 
 - 🌱 I’m currently learning **NextJS and TypeScript**
 
-- 🤝 I’m looking for help with [My Cart Library](https://github.com/gs-rumana/cart)
+- 🤝 I’m looking for help with [Country State City Library]([https://github.com/gs-rumana/cart](https://github.com/gs-rumana/country-state-city-php))
 
-- 💬 Ask me about **React, React Native, NodeJS, JavaScript**
+- 💬 Ask me about **React, React Native, NodeJS, JavaScript, TypeScript**
 
 - 📫 How to reach me **gursahb7@gmail.com**
 
